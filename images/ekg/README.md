@@ -5,8 +5,3 @@
 - Atrial Fibrillation
 - Ventricular Tachycardia
 - etc.
-
-## Radiology Images
-- Chest X-rays
-- Pneumothorax cases
-- etc.
